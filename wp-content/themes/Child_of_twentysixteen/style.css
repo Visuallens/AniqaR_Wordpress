@@ -1,0 +1,39 @@
+/*
+Theme Name: AniqaR child
+Template: twentysixteen
+Theme URI: no website
+Description: IMMT student website
+Author: Aniqa Rahman
+Version: 1.0
+*/
+
+@import url(../twentysixteen/style.css);
+@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
+
+.site-branding .site-title a {
+    color: #00b9eb;
+}
+
+.site-branding .site-title a:hover, .site-branding .site-title a:focus {
+   color: #ff13e9;
+
+}.site-description {
+   font-size: 1.2rem;  
+}
+
+.site{
+    background-color: #e4abe4;
+}
+
+.entry-title{
+    font-family: 'BioRhyme Expanded', serif;
+}
+
+.widget .widget-title {
+   font-family: 'BioRhyme Expanded', serif;
+   font-size: 1rem;
+   }
+
+.main-navigation a {
+	color: #b11058;
+}
